@@ -1,0 +1,13 @@
+Phenomenon:
+
+When do perople ride in Jersey City?
+    1) Weekdays see peak usage between 7-9am and 5-7pm due to work commutes.
+    2) Weekends see more consistent usage throughout the day as the riders are most likely leisure riders.
+    3) Seasonality is due to temperature variances throughout the year, especially during cold winter months.
+    4) Late fall through Early Spring sees less volatile variances in usage throughout the week. this is likely due to decrease in usage during these months.
+    5) Inconsistencies and volatility in usage during summer months cannot be determined without further analysis.
+How do people ride in Jersey City?
+    1) Grove Street Path station is the most popular station in New Jersey.
+    2) There does not appear to be a exponential seasonal impact on the average distance traveled per ride.
+    3) Stations located further from downtown Jersey City experience a higher average ride distance. 
+    4) Rentals which begin in Jersey City tend to remain in Jersey City. There does not appear to be a high incidence of cross Hudson River rides. 
